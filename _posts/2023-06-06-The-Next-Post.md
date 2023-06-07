@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Next Post
+title:The Next Post
 subtitle: *Really* getting into the swing of things.
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
